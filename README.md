@@ -1,5 +1,7 @@
 # White Chapel Password Auditing Framework
 
+NOTE: this is forked https://github.com/mubix/WhiteChapel. 100% credit to this guy, got a great framework up, such an amazing potential1
+
 This project is meant to be run internally, since I haven't
 really seen any open source projects that do all the things
 I think a password auditing framework should do I'm creating
